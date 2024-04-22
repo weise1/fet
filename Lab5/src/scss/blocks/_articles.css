@@ -1,0 +1,18 @@
+.articles__item {
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 16px;
+    padding: 1rem;
+}
+
+.articles__img {
+    width: 100%;
+}
+
+.articles__title {
+    font-size: 2rem;
+    margin: 16px 0;
+}
+
+.articles__text {
+    margin: 16px 0;
+}

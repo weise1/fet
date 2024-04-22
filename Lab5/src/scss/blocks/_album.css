@@ -1,0 +1,11 @@
+.album__img {
+    width: 100%;
+    height: 90vh;
+    margin: 1rem 0;
+}
+
+.album__figcaption {
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem 0;
+}

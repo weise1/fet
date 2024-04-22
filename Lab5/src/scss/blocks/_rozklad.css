@@ -1,0 +1,13 @@
+.rozklad {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.rozklad__th {
+    border: 1px solid black;
+}
+
+.rozklad__td {
+    border: 1px solid black;
+    text-align: center;
+}
