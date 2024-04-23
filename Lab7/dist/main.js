@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(":)"),document.getElementsByClassName("nav__toggle")[0].addEventListener("click",(function(e){e.stopPropagation();var a=document.getElementById("myNavbar");"nav"===a.className?a.className+=" is-expanded":a.className="nav"}))})();
