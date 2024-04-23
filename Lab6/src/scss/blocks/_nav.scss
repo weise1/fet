@@ -1,0 +1,31 @@
+.nav {
+    position: sticky;
+    top: 0;
+
+    background-color: $bg-header;
+
+    &__items {
+        display: flex;
+        list-style-type: none;
+    }
+
+    &__item {
+        color: $link-color;
+    }
+
+    &__item:hover {
+        color: $link-hover-color;
+        background-color: $link-hover-bg;
+    }
+
+    &__link {
+        padding: 1rem 0.5rem;
+        display: inline-block;
+    }
+
+    &__link:link,
+    &__link:visited {
+        color: inherit;
+        text-decoration: none;
+    }
+}
